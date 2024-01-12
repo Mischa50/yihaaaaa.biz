@@ -1,4 +1,4 @@
-Network Configuration for yihaaaaa.biz:
+Netzwerk Komponenten für yihaaaaa.biz:
 
 1. Ubiquiti EdgeRouter X (1x)
 2. Netgear GS108T Network Switches (1x)
